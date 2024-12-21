@@ -42,10 +42,9 @@ My journey in IT and Project Management and networking, I am now eager to transi
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<a href="https://www.credly.com/earner/earned/badge/04f549d8-9bc8-4d88-b5a4-610a75aef82b" target="_blank">
+<a href="https://www.credly.com/badges/04f549d8-9bc8-4d88-b5a4-610a75aef82b/public_url" target="_blank">
   <img src="https://img.shields.io/badge/-Azure%20Certification-0078D4?&style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </a>
-
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
