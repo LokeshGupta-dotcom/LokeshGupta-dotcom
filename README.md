@@ -13,7 +13,7 @@ My journey in IT and Project Management and networking, I am now eager to transi
 |-----------------------------------------------|----------------------------|
 | Attacks-and-Defenses-in-a-VM-with-Ubuntu-and-Kali-Linux | <a href="https://github.com/LokeshGupta-dotcom/Attacks-and-Defenses-in-a-VM-with-Ubuntu-and-Kali-Linux">Detection Lab</a>|
 | Setting-Up-and-Configuring-a-Firewall-Using-UFW | <a href="https://github.com/LokeshGupta-dotcom/Setting-Up-and-Configuring-a-Firewall-Using-UFW">Detection Lab</a>|
-| Setting-Up-and-Configuring-a-Firewall-Using-UFW         | SOC Automation Lab|
+| Implement-an-IDS-IPS-with-Snort         | <a href="https://github.com/LokeshGupta-dotcom/Implement-an-IDS-IPS-with-Snort">Detection Lab</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
