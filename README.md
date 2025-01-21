@@ -24,8 +24,9 @@ Hello, I'm aiming to learn more about cybersecurity while working on a Master's 
   <img src="https://img.shields.io/badge/-Azure%20Certification-0078D4?&style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </a>
 <a href="https://www.credly.com/badges/e9cd9303-cd42-41b4-a577-f02208e59e68/public_url" target="_blank">
-  <img src="https://img.shields.io/badge/-Azure%20Certification-0078D4?&style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ISC2%20Certification-0078D4?&style=for-the-badge&logo=isc2&logoColor=white" />
 </a>
+
 
 
 </div>
