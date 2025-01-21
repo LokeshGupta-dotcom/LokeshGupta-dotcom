@@ -1,5 +1,5 @@
 # Hello, I'm Lokesh Gupta
-<a href="linkedin.com/in/lokesh-gupta-2a9522161"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/lokesh-gupta-2a9522161/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Hi, I am currently pursuing a Master's in Information Technology and Project Management and with prior experience as a Network Administrator, I am deeply passionate about cybersecurity. I am committed to safeguarding digital systems and solving complex security challenges with innovative solutions.
 
