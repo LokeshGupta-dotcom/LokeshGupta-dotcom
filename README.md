@@ -18,7 +18,6 @@ Hello, I'm aiming to learn more about cybersecurity while working on a Master's 
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <a href="https://www.credly.com/badges/04f549d8-9bc8-4d88-b5a4-610a75aef82b/public_url" target="_blank">
   <img src="https://img.shields.io/badge/-Azure%20Certification-0078D4?&style=for-the-badge&logo=microsoft-azure&logoColor=white" />
